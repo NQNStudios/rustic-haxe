@@ -1,0 +1,12 @@
+{
+    "name": "rustic-haxe",
+    "url": "http://github.com/NQNStudios/rustic-haxe",
+    "license": "MIT",
+    "tags": ["rust", "macro", "syntax"],
+    "description": "Porting useful Rust idioms to Haxe",
+    "version": "0.0.1",
+    "classPath": "rustic/"
+    "releasenote": "Unstable WIP",
+    "contributors": ["NQNStudios"],
+    "dependencies": {"utest": ""}
+}
