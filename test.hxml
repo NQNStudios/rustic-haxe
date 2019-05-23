@@ -1,0 +1,4 @@
+-lib utest
+-cp rustic
+-main tests.TestMain
+--interp
